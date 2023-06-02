@@ -1,0 +1,29 @@
+{
+  "name": "panel-rest-api",
+  "version": "1.0.0",
+  "description": "Реализация контролера MVC. Управление осуществдяется из админ панели базой уроков, сообщений, ролей. Разрабатывается в рамках тестового задания на должность frontend-разработчика в компанию GUSCOM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grigorasch/panel-rest-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs",
+    "express",
+    "mongoose"
+  ],
+  "author": "Grigorasch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grigorasch/panel-rest-api/issues"
+  },
+  "homepage": "https://github.com/Grigorasch/panel-rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
